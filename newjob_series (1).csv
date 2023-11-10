@@ -1,0 +1,19 @@
+Country Name,Country Code,Series Name,Series Code,2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016]
+Austria,AUT,Age dependency ratio (% of working-age population),SP.POP.DPND,47.75090751,47.87529672,48.01219319,48.18118727,48.31580521,48.47020052,48.67164026,48.90839327,49.16566664,49.52983685
+Australia,AUS,Age dependency ratio (% of working-age population),SP.POP.DPND,47.95587437,47.8347414,47.87923092,48.06817961,48.63881193,49.19472478,49.77093606,50.39963747,51.0854579,51.86304832
+China,CHN,Age dependency ratio (% of working-age population),SP.POP.DPND,36.44171818,35.94885651,35.67290247,35.5904054,35.67418335,35.94391081,36.38525167,36.96849343,37.66849215,38.54914605
+Japan,JPN,Age dependency ratio (% of working-age population),SP.POP.DPND,52.17373368,53.25873074,54.49008097,55.89348206,57.38874303,59.01528016,60.7133638,62.38332319,63.95212579,65.29010631
+India,IND,Age dependency ratio (% of working-age population),SP.POP.DPND,58.69276373,57.93360579,57.1269046,56.2623447,55.51216393,54.6634111,53.77575351,52.93609713,52.19299717,51.52284711
+Togo,TGO,Age dependency ratio (% of working-age population),SP.POP.DPND,83.00667655,82.91300836,82.78279775,82.60630514,82.59586835,82.4704966,82.21507695,81.80228059,81.22372406,80.64006992
+Mali,MLI,Age dependency ratio (% of working-age population),SP.POP.DPND,100.3826076,100.7262266,100.8940562,100.865616,101.6566061,102.0787511,102.2063288,102.1248865,101.8716218,101.4600528
+Mexico,MEX,Age dependency ratio (% of working-age population),SP.POP.DPND,58.4151424,57.44503194,56.47892033,55.51953585,54.58755342,53.69464891,52.85599885,52.09057694,51.41000815,50.91254992
+Zimbabwe,ZWE,Age dependency ratio (% of working-age population),SP.POP.DPND,80.7945139,80.58910128,80.46845016,80.41320944,80.21625225,80.03527074,79.87662365,79.71750918,79.51436364,79.19530352
+United Kingdom,GBR,Age dependency ratio (% of working-age population),SP.POP.DPND,51.32959751,51.35874032,51.51127437,51.79171761,52.52360112,53.26040979,54.01564946,54.78284844,55.53596761,56.17486701
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Data from database: Jobs,,,,,,,,,,,,,
+Last Updated: 06/29/2022,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Periodicity,Aggregation method,Limitations and exceptions,General comments,,,,
+SP.POP.DPND,CC BY-4.0,Age dependency ratio (% of working-age population),Age dependency ratio is the ratio of dependents--people younger than 15 or older than 64--to the working-age population--those ages 15-64. Data are shown as the proportion of dependents per 100 working-age population.,World Bank staff estimates based on age distributions of United Nations Population Division's World Population Prospects: 2017 Revision.,Health: Population: Dynamics,Annual,Weighted average,"Because the five-year age group is the cohort unit and five-year period data are used in the United Nations Population Division's World Population Prospects, interpolations to obtain annual data or single age structure may not reflect actual events or age composition. For more information, see the original source.",Relevance to gender indicator: this indicator implies the dependency burden that the working-age population bears in relation to children and the elderly. Many times single or widowed women who are the sole caregiver of a household have a high dependency ratio.,,,,
